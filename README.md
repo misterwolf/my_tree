@@ -9,12 +9,17 @@ git clone git@github.com:misterwolf/my_tree.git
 -> https://nodesource.com/blog/installing-nodejs-tutorial-mac-os-x/
 
 ## install Jasmine
-$ npm install jasmine-node -g
 
-## run tests
-in the project folder
-$ jasmine-node spec/
+`$ npm install jasmine-node -g`
 
-## run script
+## run tests
+
 in the project folder
-$ node example.js
+
+`$ jasmine-node spec/`
+
+## run script
+
+in the project folder
+
+`$ node example.js`
