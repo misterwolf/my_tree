@@ -23,3 +23,23 @@ in the project folder
 in the project folder
 
 `$ node example.js`
+
+you should see such log:
+```
+3
+2
+0
+MyNode {
+  data: undefined,
+  __children: [
+    MyNode {
+      data: undefined,
+      __children: [Array],
+      __parent: [Circular]
+    },
+    MyNode { data: undefined, __children: [], __parent: [Circular] }
+  ],
+  __parent: null
+}
+```
+
