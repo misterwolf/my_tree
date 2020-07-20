@@ -1,5 +1,5 @@
 # MyTree
-** My first node project ever. Not needed to set up server, it's just for demonstration purpose. **
+**My first node project ever. Not needed to set up server, it's just for demonstration purpose.**
 
 It provides the base actions for creating a Simple Tree data representation, with the calculation of the depth of each node.
 
