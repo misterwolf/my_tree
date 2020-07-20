@@ -1,7 +1,9 @@
 # MyTree
-**My first node project ever. Not needed to set up server, it's just for demonstration purpose.** 💪🏽
+**My first node project ever** 💪🏽
 
 It provides the base actions for creating a Simple Tree data representation, with the calculation of the depth of each node.
+Not needed to set up server, it's just for demonstration purpose. 
+See "Run script" section.
 
 ## Clone this repository
 git clone git@github.com:misterwolf/my_tree.git
